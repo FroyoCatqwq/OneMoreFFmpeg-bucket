@@ -9,7 +9,7 @@
       "hash": "557e185cd0288853f7f849eb8d885d5cab29a91881ca992bdc535f5acd2545ac"
     }
   },
-  "bin": [["one-more-ffmpeg-v1.0.0-windows-amd64.exe", "one-more-ffmpeg.exe"]],
+  "bin": [["one-more-ffmpeg-v1.0.0-windows-amd64.exe", "one-more-ffmpeg"]],
   "checkver": {
     "github": "https://github.com/FroyoCatqwq/OneMoreFFmpeg"
   },
