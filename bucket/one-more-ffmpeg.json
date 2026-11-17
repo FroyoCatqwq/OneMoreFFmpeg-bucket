@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unified FFmpeg discovery, validation, install and environment management CLI",
   "homepage": "https://github.com/FroyoCatqwq/OneMoreFFmpeg",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/FroyoCatqwq/OneMoreFFmpeg/releases/download/v1.0.0/one-more-ffmpeg-v1.0.0-windows-amd64.exe",
-      "hash": "557e185cd0288853f7f849eb8d885d5cab29a91881ca992bdc535f5acd2545ac"
+      "url": "https://github.com/FroyoCatqwq/OneMoreFFmpeg/releases/download/v1.0.1/one-more-ffmpeg-v1.0.1-windows-amd64.exe",
+      "hash": ""
     }
   },
-  "bin": [["one-more-ffmpeg-v1.0.0-windows-amd64.exe", "one-more-ffmpeg"]],
+  "bin": [["one-more-ffmpeg-v1.0.1-windows-amd64.exe", "one-more-ffmpeg"]],
   "checkver": {
     "github": "https://github.com/FroyoCatqwq/OneMoreFFmpeg"
   },
