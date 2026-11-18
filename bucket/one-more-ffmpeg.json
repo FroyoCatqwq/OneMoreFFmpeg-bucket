@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/FroyoCatqwq/OneMoreFFmpeg/releases/download/v1.1.1/one-more-ffmpeg-v1.1.1-windows-amd64.exe",
-      "hash": "70bafa457a39d1011c54e613086e3523155e4136d0e09957dccbec568ba66e5c"
+      "hash": "00305ef6fcf6bbcf4994f16738f8dd6e748b34f3b5cf01ad92833faa7ada5965"
     }
   },
   "bin": [
